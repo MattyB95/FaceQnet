@@ -1,0 +1,8 @@
+### Jetbrains
+.idea/
+
+### Python
+venv/
+
+### Model
+src/FaceQnet.h5
