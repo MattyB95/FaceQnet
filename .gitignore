@@ -6,3 +6,6 @@ venv/
 
 ### Model
 src/FaceQnet.h5
+
+### Project
+/res/
