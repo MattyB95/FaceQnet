@@ -8,7 +8,7 @@ import PreprocessImage
 
 batch_size = 1
 
-INPUT_DIRECTORY = "/res/"
+INPUT_DIRECTORY = "/Volumes/Samsung_T5/Data Collection"
 MODALITY = "/Face/"
 IMAGE_FILE_EXTENSION = ".jpg"
 
